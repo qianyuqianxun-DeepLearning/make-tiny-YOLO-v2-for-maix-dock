@@ -1,5 +1,15 @@
-完整教程参考：
+本项目是使用sipeed公司的勘智K210人工智能芯片进行设计的深度学习模型部署教程，
+
+完整教程请参考：
 https://blog.csdn.net/baidu_39629638/article/details/105198926
+
+欢迎关注我的CSDN的社区:千与千寻ML
+网址：https://blog.csdn.net/baidu_39629638?spm=1000.2115.3001.5343
+
+维信公众号:AI学习经历分享
+
+博主微信：AIxeuxijingli
+
 
 下载此工程样本数据集：
 
