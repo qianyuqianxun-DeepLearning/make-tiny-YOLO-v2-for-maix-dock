@@ -10,7 +10,7 @@ https://blog.csdn.net/baidu_39629638/article/details/105198926
 
 博主微信：AIxeuxijingli
 
-![image]（）
+![image]（qrcode_for_gh_8ded28aa9760_258(1).jpg）
 
 欢迎关注，一起学习进步~
 
